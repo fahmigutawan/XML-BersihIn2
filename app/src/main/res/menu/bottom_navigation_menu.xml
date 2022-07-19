@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomnavigation_home_tracking"
+        android:icon="@drawable/ic_bottommenu_track_merged"
+        android:title="Track"
+        />
+
+    <item
+        android:id="@+id/bottomnavigation_home_pickup"
+        android:icon="@drawable/ic_bottommenu_pickup_merged"
+        android:title="Pick Up"
+        />
+
+    <item
+        android:id="@+id/bottomnavigation_home_account"
+        android:icon="@drawable/ic_bottommenu_account_merged"
+        android:title="Account"
+        />
+</menu>

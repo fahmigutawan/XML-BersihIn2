@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bersihin_navigation"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.frgutawan.xml_bersihin_2.screen.splash.SplashFragment"
+        android:label="SplashFragment" />
+    <fragment
+        android:id="@+id/onboardFragment"
+        android:name="com.frgutawan.xml_bersihin_2.screen.onboard.OnboardFragment"
+        android:label="OnboardFragment" />
+    <fragment
+        android:id="@+id/homeTrackingFragment"
+        android:name="com.frgutawan.xml_bersihin_2.screen.home_tracking.HomeTrackingFragment"
+        android:label="HomeTrackingFragment" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.frgutawan.xml_bersihin_2.screen.history.HistoryFragment"
+        android:label="HistoryFragment" />
+    <fragment
+        android:id="@+id/homePickupFragment"
+        android:name="com.frgutawan.xml_bersihin_2.screen.home_pickup.HomePickupFragment"
+        android:label="HomePickupFragment" />
+    <fragment
+        android:id="@+id/homeProfileFragment"
+        android:name="com.frgutawan.xml_bersihin_2.screen.home_profile.HomeProfileFragment"
+        android:label="HomeProfileFragment" />
+</navigation>
