@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/drawable/background_circle_green.xml" value="0.1805" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/drawable/background_circle_white.xml" value="0.1805" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/drawable/background_rounded_white.xml" value="0.2365" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/drawable/ic_person.xml" value="0.2365" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/drawable/ic_profile_picture.xml" value="0.1805" />
         <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/bersihin_activity.xml" value="0.23229166666666667" />
         <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_first_time_verification.xml" value="0.23229166666666667" />
         <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_history.xml" value="0.23229166666666667" />
         <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_home_pickup.xml" value="0.23229166666666667" />
-        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_home_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_home_profile.xml" value="0.2" />
         <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_home_tracking.xml" value="0.23229166666666667" />
         <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_input_number.xml" value="0.23229166666666667" />
         <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_login.xml" value="0.23229166666666667" />

@@ -10,6 +10,7 @@
         android:layout_width="16dp"
         android:layout_height="24dp"
         android:layout_margin="24dp"
+        android:src="@drawable/ic_arrow_back"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 
