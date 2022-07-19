@@ -1,31 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/bersihin_navigation"
     app:startDestination="@id/splashFragment">
 
     <fragment
         android:id="@+id/splashFragment"
         android:name="com.frgutawan.xml_bersihin_2.screen.splash.SplashFragment"
-        android:label="SplashFragment" />
+        android:label="fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_viewPagerFragment"
+            app:destination="@id/viewPagerFragment" />
+        <action
+            android:id="@+id/action_splashFragment_to_homeTrackingFragment"
+            app:destination="@id/homeTrackingFragment" />
+    </fragment>
     <fragment
         android:id="@+id/onboardFragment"
         android:name="com.frgutawan.xml_bersihin_2.screen.onboard.OnboardFragment"
-        android:label="OnboardFragment" />
+        android:label="fragment_onboard" />
     <fragment
         android:id="@+id/homeTrackingFragment"
         android:name="com.frgutawan.xml_bersihin_2.screen.home_tracking.HomeTrackingFragment"
-        android:label="HomeTrackingFragment" />
+        android:label="fragment_home_tracking" />
     <fragment
         android:id="@+id/historyFragment"
         android:name="com.frgutawan.xml_bersihin_2.screen.history.HistoryFragment"
-        android:label="HistoryFragment" />
+        android:label="fragment_history" />
     <fragment
         android:id="@+id/homePickupFragment"
         android:name="com.frgutawan.xml_bersihin_2.screen.home_pickup.HomePickupFragment"
-        android:label="HomePickupFragment" />
+        android:label="fragment_home_pickup" />
     <fragment
         android:id="@+id/homeProfileFragment"
         android:name="com.frgutawan.xml_bersihin_2.screen.home_profile.HomeProfileFragment"
-        android:label="HomeProfileFragment" />
+        android:label="fragment_home_profile" />
+    <fragment
+        android:id="@+id/viewPagerFragment"
+        android:name="com.frgutawan.xml_bersihin_2.screen.onboard.ViewPagerFragment"
+        android:label="fragment_view_pager"
+        tools:layout="@layout/fragment_view_pager" >
+        <action
+            android:id="@+id/action_viewPagerFragment_to_homeTrackingFragment"
+            app:destination="@id/homeTrackingFragment" />
+    </fragment>
 </navigation>

@@ -23,11 +23,11 @@ class SplashFragment : Fragment() {
         Handler().postDelayed({
             if (onBoardingFinished()) {
                 findNavController().popBackStack()
-                findNavController().navigate(R.id.onboardFragment)
+                findNavController().navigate(R.id.homeTrackingFragment)
             }
             else {
                 findNavController().popBackStack()
-                findNavController().navigate(R.id.homeTrackingFragment)
+                findNavController().navigate(R.id.viewPagerFragment)
             }
         },2000)
 

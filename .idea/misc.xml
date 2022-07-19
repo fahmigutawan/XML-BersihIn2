@@ -3,6 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/bersihin_activity.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_first_time_verification.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_history.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_home_pickup.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_home_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_home_tracking.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_input_number.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_login_otp.xml" value="0.21822916666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_onboard.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_onboard_scr1.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_onboard_scr2.xml" value="0.19067977768277042" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_onboard_scr3.xml" value="0.19067977768277042" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_payment_detail.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_payment_method.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_payment_success.xml" value="0.19067977768277042" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/fragment_view_pager.xml" value="0.19067977768277042" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/item_homepickup_bottommenu.xml" value="0.23229166666666667" />
+        <entry key="..\:/Dev/Project/BersihIn2/app/src/main/res/layout/item_list_pickup_history.xml" value="0.23229166666666667" />
         <entry key="..\:/Projek Koding/Android Studio/XML-BersihIn2/app/src/main/res/drawable/home_pickup_bottommenu.xml" value="0.1" />
         <entry key="..\:/Projek Koding/Android Studio/XML-BersihIn2/app/src/main/res/layout/fragment_home_pickup.xml" value="0.33" />
         <entry key="..\:/Projek Koding/Android Studio/XML-BersihIn2/app/src/main/res/layout/fragment_home_profile.xml" value="0.35778985507246375" />

@@ -1,4 +1,4 @@
-package com.playbox.bersihin.ui.onboard.screens
+package com.frgutawan.xml_bersihin_2.screen.onboard.screens
 
 import android.content.Context
 import android.os.Bundle
