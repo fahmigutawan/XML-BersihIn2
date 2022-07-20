@@ -45,4 +45,9 @@
             android:id="@+id/action_viewPagerFragment_to_homeTrackingFragment"
             app:destination="@id/homeTrackingFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.frgutawan.xml_bersihin_2.screen.auth.login.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
 </navigation>

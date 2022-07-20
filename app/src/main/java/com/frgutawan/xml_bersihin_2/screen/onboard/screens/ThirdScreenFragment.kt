@@ -27,9 +27,9 @@ class ThirdScreenFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         binding?.btnFinish?.setOnClickListener {
+            findNavController().popBackStack()
             findNavController().navigate(R.id.homeTrackingFragment)
             onBoardingFinished()
-            findNavController().popBackStack()
         }
     }
 
